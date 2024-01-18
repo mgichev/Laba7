@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Лондон</item>
+        <item>Брисбен</item>
+        <item>Таганрог</item>
+        <item>Ростов-на-Дону</item>
+        <item>Екатеринбург</item>
+        <item>Ярославль</item>
+        <item>Минск</item>
+        <item>Рим</item>
+        <item>Берлин</item>
+        <item>Вена</item>
+        <item>Прага</item>
+        <item>Рио-де-Жанейро</item>
+        <item>Рейкьявик</item>
+        <item>Элиста</item>
+        <item>Улан-Батор</item>
+        <item>Шанхай</item>
+        <item>Пекин</item>
+        <item>Киото</item>
+        <item>Осло</item>
+        <item>Хельсинки</item>
+        <item>Мурманск</item>
+        <item>Норильск</item>
+        <item>Кейптаун</item>
+        <item>Вашингтон</item>
+        <item>Скопье</item>
+        <item></item>
+    </string-array>
+</resources>

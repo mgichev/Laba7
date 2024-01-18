@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_city_list">
+
+    <fragment
+        android:id="@+id/navigation_city_list"
+        android:name="com.example.laba3.ui.city_list.CityListFragment"
+        android:label="@string/title_city_list"
+        tools:layout="@layout/fragment_city_list" />
+
+    <fragment
+        android:id="@+id/navigation_current_city"
+        android:name="com.example.laba3.ui.current_city.CurrentCityFragment"
+        android:label="@string/title_current_city"
+        tools:layout="@layout/fragment_current_city" />
+
+    <fragment
+        android:id="@+id/navigation_saved_cities"
+        android:name="com.example.laba3.ui.saved_cities.SavedCitiesFragment"
+        android:label="@string/title_saved_cities"
+        tools:layout="@layout/fragment_saved_cities" />
+</navigation>
